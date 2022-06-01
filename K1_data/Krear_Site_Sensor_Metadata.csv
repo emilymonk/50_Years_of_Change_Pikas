@@ -1,0 +1,31 @@
+filename.new,time.format,sensor.type
+XI_2010_trim.csv,24hr,shallow
+XI_2011_trim.csv,24hr,shallow
+XI_2012_trim.csv,24hr,shallow
+AG_2012_trim.csv,24hr,deep
+AG_2013_trim.csv,24hr,deep
+XI_2014_trim.csv,24hr,shallow
+AG_2014_trim.csv,24hr,deep
+PZ_2014_trim.csv,12hr,free air
+AG_2015_trim.csv,24hr,deep
+XI_2015_trim.csv,24hr,shallow
+PAA_2016_trim.csv,12hr,shallow
+PAD_2016_trim.csv,12hr,deep
+PAE_2016_trim.csv,12hr,free air
+LJ_2017_trim.csv,12hr,deep
+PAE_2017_trim.csv,12hr,free air
+PP_2017_trim.csv,12hr,shallow
+OG_S_2018_trim.csv,24hr,shallow
+OG_D_2018_trim.csv,24hr,deep
+2-4_2018_trim.csv,12hr,free air
+OG_S_2019_trim.csv,24hr,shallow
+OG_D_2019_trim.csv,24hr,deep
+2-4_2019_trim.csv,12hr,free air
+W_2021_trim.csv,24hr,shallow
+A_RH_2021_trim.csv,24hr,deep
+LTER_PK_2021_trim.csv,12hr,free air
+OR_2020_trim.csv,24hr,deep
+AA_2020_trim.csv,24hr,shallow
+LTER_PL_2020_trim.csv,12hr,free air
+PZ_2015_trim.csv,24hr,free air
+E_XIreplacement_2013_trim.csv,24hr,shallow
